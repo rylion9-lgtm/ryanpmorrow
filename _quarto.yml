@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images
 
 website:
   title: "Ryan Morrow - Data Science Portfolio"
@@ -28,10 +30,7 @@ website:
       - icon: github
         href: https://github.com/rylion9-lgtm
       - icon: linkedin
-        href: www.linkedin.com/in/1ryanm1
-
-
-
+        href: https://www.linkedin.com/in/1ryanm1
 
   sidebar:
     - title: "Projects"

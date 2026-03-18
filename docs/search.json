@@ -76,21 +76,35 @@
     "href": "about.html#education",
     "title": "About Me",
     "section": "Education",
-    "text": "Education\n\nStatistics: Data Science - Brigham Young University\nRelevant Coursework: Statistics, data analysis, programming, regression, probability, databases, and data visualization"
+    "text": "Education\n\nStatistics: Data Science - Brigham Young University\nRelevant Coursework: Statistical Modeling, Data Visualization, Linear Algebra, Data Structures, Method of Survey Sampling, Intro to Bioinformatics"
   },
   {
     "objectID": "about.html#skills-interests",
     "href": "about.html#skills-interests",
     "title": "About Me",
     "section": "Skills & Interests",
-    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python, R, SQL\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn, Tableau\nStatistical Methods: Regression, hypothesis testing, exploratory data analysis\nTools: Jupyter Notebooks, Git, GitHub, Quarto, VS Code\n\n\n\nAreas of Interest\n\nData analytics\nStatistical modeling\nVisualization and communication\nBusiness decision-making with data"
+    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python, R, SQL, C++\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn, Tableau, Power BI\nStatistical Methods: Regression, hypothesis testing, exploratory data analysis\nTools: Jupyter Notebooks, Git, GitHub, Quarto, VS Code\n\n\n\nAreas of Interest\n\nData analytics\nStatistical modeling\nVisualization and communication\nBusiness decision-making with data"
   },
   {
     "objectID": "about.html#goals",
     "href": "about.html#goals",
     "title": "About Me",
     "section": "Goals",
-    "text": "Goals\nThrough my data science journey, I hope to continue strengthening both my technical and communication skills.\nMy current goals include:\n\nBuilding strong, well-documented portfolio projects\nGaining experience in data analytics and data science internships\nImproving my ability to communicate results clearly to both technical and non-technical audiences\n\nLong term, I want to use data to help organizations make informed decisions and solve meaningful problems."
+    "text": "Goals\nThrough my data science journey, I hope to continue strengthening both my technical and communication skills and be happy.\nMy current goals include:\n\nBuilding strong, well-documented portfolio projects\nGaining experience in data analytics and data science internships\nImproving my ability to communicate results clearly to both technical and non-technical audiences\n\nLong term, I want to use data to help organizations make informed decisions and solve meaningful problems."
+  },
+  {
+    "objectID": "about.html#get-to-know-me",
+    "href": "about.html#get-to-know-me",
+    "title": "About Me",
+    "section": "Get to Know Me",
+    "text": "Get to Know Me\nOutside of school, I enjoy marathon running, intramural sports, hiking, and following BYU athletics.\nI enjoy setting long-term goals and working consistently to achieve them."
+  },
+  {
+    "objectID": "about.html#image",
+    "href": "about.html#image",
+    "title": "About Me",
+    "section": "Image",
+    "text": "Image\n\n\n\nRyan Morrow headshot"
   },
   {
     "objectID": "about.html#contact",

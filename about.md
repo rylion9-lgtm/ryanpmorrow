@@ -11,14 +11,14 @@ My coursework has helped me build skills in programming, statistical analysis, a
 ## Education
 
 - **Statistics: Data Science** - Brigham Young University
-- **Relevant Coursework**: Statistics, data analysis, programming, regression, probability, databases, and data visualization
+- **Relevant Coursework**: Statistical Modeling, Data Visualization, Linear Algebra, Data Structures, Method of Survey Sampling, Intro to Bioinformatics
 
 ## Skills & Interests
 
 ### Technical Skills
-- **Programming**: Python, R, SQL
+- **Programming**: Python, R, SQL, C++
 - **Data Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn, Tableau
+- **Visualization**: Matplotlib, Seaborn, Tableau, Power BI
 - **Statistical Methods**: Regression, hypothesis testing, exploratory data analysis
 - **Tools**: Jupyter Notebooks, Git, GitHub, Quarto, VS Code
 
@@ -30,7 +30,7 @@ My coursework has helped me build skills in programming, statistical analysis, a
 
 ## Goals
 
-Through my data science journey, I hope to continue strengthening both my technical and communication skills.
+Through my data science journey, I hope to continue strengthening both my technical and communication skills and be happy.
 
 My current goals include:
 
@@ -39,6 +39,18 @@ My current goals include:
 - Improving my ability to communicate results clearly to both technical and non-technical audiences
 
 Long term, I want to use data to help organizations make informed decisions and solve meaningful problems.
+
+## Get to Know Me
+
+Outside of school, I enjoy marathon running, intramural sports, hiking, and following BYU athletics.
+
+I enjoy setting long-term goals and working consistently to achieve them.
+
+---
+
+## Image
+
+![Ryan Morrow headshot](./images/headshot.jpeg)
 
 ## Contact
 
