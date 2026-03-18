@@ -1,11 +1,157 @@
 ---
-title: "Data Acquisition Project"
-author: "Your Name"
-date: "2025-01-01"
+title: "National Parks: An Agglomerate"
+description: "Using the National Park Service API to build a curated dataset of park units, alerts, and campgrounds."
 format:
   html:
-    code-fold: true
     toc: true
+    code-fold: false
 ---
 
-This is coming down the pipeline. Check again later.
+## Why I Chose This Project
+
+I wanted to build a dataset around something that felt interesting outside of class, and the National Park Service API was a great fit. National parks and public lands are places a lot of people care about, but they are also a strong example of how public data can be transformed into something useful for analysis.
+
+Instead of downloading a finished dataset, I wanted to practice gathering raw data directly from an API and turning it into a cleaner, more usable table. This project focuses on park units in the National Park Service system and builds a dataset that combines multiple sources into one place.
+
+## My Question of Interest
+
+**How can I build a park-level dataset from the National Park Service API that helps compare park units by location, park characteristics, visitor information, and amenities?**
+
+Rather than jumping straight into analysis, my goal was to create a dataset that would actually support meaningful analysis later.
+
+## Why This Data Source Was Ethical to Use
+
+This project used the official National Park Service API rather than scraping webpages. That matters because the API is explicitly designed for developers to access data in a structured and approved way.
+
+I also followed good data practices by:
+
+- using a registered API key
+- storing the key in a `.env` file instead of hardcoding it
+- not pushing the key to GitHub
+
+Using an official API ensures that the data collection process is transparent, allowed, and reproducible.
+
+## How I Gathered the Data
+
+I used Python along with the following libraries:
+
+- `requests`
+- `pandas`
+- `python-dotenv`
+
+The project pulls data from three API endpoints:
+
+- **Parks** (base dataset)
+- **Alerts** (used to count alerts per park)
+- **Campgrounds** (used to count campgrounds per park)
+
+### Workflow
+
+1. Pull park data from the parks endpoint
+2. Save raw data to CSV
+3. Clean and transform the park data
+4. Pull alerts data and aggregate by park
+5. Merge alerts into the dataset
+6. Pull campground data and aggregate by park
+7. Merge campgrounds into the final dataset
+
+This results in a single, clean dataset at the park level.
+
+## Example API Request
+
+```python
+import os
+from pathlib import Path
+
+import requests
+import pandas as pd
+from dotenv import load_dotenv
+
+env_path = Path(__file__).resolve().parents[1] / ".env"
+load_dotenv(dotenv_path=env_path, override=True)
+
+API_KEY = os.getenv("NPS_API_KEY")
+
+url = "https://developer.nps.gov/api/v1/parks"
+params = {
+    "api_key": API_KEY,
+    "limit": 500
+}
+
+response = requests.get(url, params=params)
+response.raise_for_status()
+
+data = response.json()
+df = pd.json_normalize(data["data"])
+```
+
+## Final Dataset Overview
+
+The final dataset is saved as:
+
+`data/processed/parks_final.csv`
+
+It contains:
+
+- **474 observations (rows)**
+- **9 features (columns)**
+
+Each row represents a National Park Service site.
+
+## Data Dictionary
+
+- **fullName** — full name of the park unit
+- **parkCode** — unique identifier used by the NPS API
+- **states** — state abbreviation(s) for the park
+- **latitude** — latitude of the park
+- **longitude** — longitude of the park
+- **description_length** — number of characters in the park description
+- **num_activities** — approximate count of activities listed
+- **num_alerts** — number of alerts associated with the park
+- **num_campgrounds** — number of campgrounds associated with the park
+
+## Cleaning and Transformations
+
+To move from raw API data to a usable dataset, I performed several transformations:
+
+- converted latitude and longitude to numeric values
+- created `description_length` from the text description
+- engineered `num_activities` from nested activity data
+- grouped alerts by `parkCode` to create `num_alerts`
+- grouped campgrounds by `parkCode` to create `num_campgrounds`
+- merged all features into one park-level dataset
+
+This process turned nested JSON data into a clean rectangular dataset.
+
+## Data Quality and Limitations
+
+There are a few important limitations:
+
+- The alerts and campgrounds endpoints were pulled with a limit of 500 rows, so counts may not reflect the full dataset.
+- `num_activities` is an engineered approximation, not an official count.
+- Park units vary widely (national parks vs monuments vs memorials), so comparisons are not always perfectly equivalent.
+- Alerts are dynamic and change over time, so this dataset represents a snapshot.
+
+## Why This Project Was Useful
+
+This project highlights an important part of data science: building the dataset itself.
+
+Rather than starting with clean data, I:
+
+- pulled raw data from an API
+- cleaned and transformed it
+- engineered new features
+- combined multiple sources
+
+This is the foundation of most real-world data work.
+
+## Code and Resources
+
+- [Project GitHub Repository](https://github.com/rylion9-lgtm/national-parks-agglomerate)
+- https://www.nps.gov/subjects/developer/api-documentation.htm
+
+## Final Thoughts
+
+This project helped me understand how to move from raw API data to a structured dataset that could support analysis. By combining multiple endpoints and engineering new variables, I created a dataset that goes beyond a simple download and reflects a real data acquisition workflow.
+
+In the future, I would improve this by handling pagination fully, incorporating more endpoints, and building visualizations to explore patterns across parks.
