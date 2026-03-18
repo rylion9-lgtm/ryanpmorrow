@@ -24,6 +24,8 @@ website:
             href: projects/eda.qmd
           - text: "Data Acquisition"
             href: projects/data-acquisition.qmd
+          - text: "Gapminder Tutorial"
+            href: projects/tutorial-gapminder.qmd
           - text: "Final Project"
             href: projects/final-project.qmd
     right:
@@ -38,6 +40,7 @@ website:
         - projects/index.md
         - projects/eda.qmd
         - projects/data-acquisition.qmd
+        - projects/tutorial-gapminder.qmd
         - projects/final-project.qmd
 
 format:
