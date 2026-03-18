@@ -3,8 +3,6 @@ title: "How to Clean and Visualize Gapminder Data in Python"
 format: html
 ---
 
-# How to Clean and Visualize Gapminder Data in Python
-
 ## Introduction
 
 One of the most important skills in data science is learning how to **clean and reshape messy data** before doing analysis. A dataset can contain useful information, but if it is not structured well, it becomes much harder to explore, visualize, and explain. That is why data cleaning is usually one of the first(and longest)steps in any real workflow.
