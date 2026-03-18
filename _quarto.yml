@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Your Name - Data Science Portfolio"
-  description: "A showcase of my data science projects and learning journey"
-  
+  title: "Ryan Morrow - Data Science Portfolio"
+  description: "A portfolio of my data science projects, coursework, and learning journey"
+
   navbar:
     background: primary
     left:
@@ -26,9 +26,12 @@ website:
             href: projects/final-project.qmd
     right:
       - icon: github
-        href: https://github.com/your-username
+        href: https://github.com/rylion9-lgtm
       - icon: linkedin
-        href: https://linkedin.com/in/your-profile
+        href: www.linkedin.com/in/1ryanm1
+
+
+
 
   sidebar:
     - title: "Projects"

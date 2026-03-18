@@ -4,45 +4,50 @@ title: "About Me"
 
 ## Background
 
-Write a brief introduction about yourself here. Include:
+I am a Statistics: Data Science student at Brigham Young University with a strong interest in using data to solve real-world problems. I enjoy learning how data can be collected, cleaned, analyzed, and communicated in ways that lead to better decisions.
 
-- Your academic background
-- Your interest in data science
-- Your career goals
-- Any relevant experience or projects
+My coursework has helped me build skills in programming, statistical analysis, and data visualization, and I am especially interested in applying those skills to practical problems in analytics and business settings.
 
 ## Education
 
-- **[Your Degree]** - [University Name], [Year]
-- **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
+- **Statistics: Data Science** - Brigham Young University
+- **Relevant Coursework**: Statistics, data analysis, programming, regression, probability, databases, and data visualization
 
 ## Skills & Interests
 
 ### Technical Skills
-- **Programming**: Python
+- **Programming**: Python, R, SQL
 - **Data Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn
-- **Tools**: Jupyter Notebooks, Git/GitHub
+- **Visualization**: Matplotlib, Seaborn, Tableau
+- **Statistical Methods**: Regression, hypothesis testing, exploratory data analysis
+- **Tools**: Jupyter Notebooks, Git, GitHub, Quarto, VS Code
 
 ### Areas of Interest
-- [Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]
-- [Other areas you're curious about]
+- Data analytics
+- Statistical modeling
+- Visualization and communication
+- Business decision-making with data
 
 ## Goals
 
-Describe what you hope to achieve through your data science journey:
+Through my data science journey, I hope to continue strengthening both my technical and communication skills.
 
-- Short-term learning objectives
-- Long-term career aspirations
-- Types of problems you want to solve
+My current goals include:
+
+- Building strong, well-documented portfolio projects
+- Gaining experience in data analytics and data science internships
+- Improving my ability to communicate results clearly to both technical and non-technical audiences
+
+Long term, I want to use data to help organizations make informed decisions and solve meaningful problems.
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [github.com/rylion9-lgtm]
+- **LinkedIn**: [www.linkedin.com/in/1ryanm1]
+
+
+
 
 ---
 
-*This portfolio showcases my learning progress and projects completed during my data science studies.*
+This portfolio showcases my progress, projects, and development as a data science student.
