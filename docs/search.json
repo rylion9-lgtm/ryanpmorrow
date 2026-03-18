@@ -170,120 +170,6 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a Statistics: Data Science student at Brigham Young University with a strong interest in using data to solve real-world problems. I enjoy learning how data can be collected, cleaned, analyzed, and communicated in ways that lead to better decisions.\nMy coursework has helped me build skills in programming, statistical analysis, and data visualization, and I am especially interested in applying those skills to practical problems in analytics and business settings."
-  },
-  {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a Statistics: Data Science student at Brigham Young University with a strong interest in using data to solve real-world problems. I enjoy learning how data can be collected, cleaned, analyzed, and communicated in ways that lead to better decisions.\nMy coursework has helped me build skills in programming, statistical analysis, and data visualization, and I am especially interested in applying those skills to practical problems in analytics and business settings."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Me",
-    "section": "Education",
-    "text": "Education\n\nStatistics: Data Science - Brigham Young University\nRelevant Coursework: Statistical Modeling, Data Visualization, Linear Algebra, Data Structures, Method of Survey Sampling, Intro to Bioinformatics"
-  },
-  {
-    "objectID": "about.html#skills-interests",
-    "href": "about.html#skills-interests",
-    "title": "About Me",
-    "section": "Skills & Interests",
-    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python, R, SQL, C++\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn, Tableau, Power BI\nStatistical Methods: Regression, hypothesis testing, exploratory data analysis\nTools: Jupyter Notebooks, Git, GitHub, Quarto, VS Code\n\n\n\nAreas of Interest\n\nData analytics\nStatistical modeling\nVisualization and communication\nBusiness decision-making with data"
-  },
-  {
-    "objectID": "about.html#goals",
-    "href": "about.html#goals",
-    "title": "About Me",
-    "section": "Goals",
-    "text": "Goals\nThrough my data science journey, I hope to continue strengthening both my technical and communication skills and be happy.\nMy current goals include:\n\nBuilding strong, well-documented portfolio projects\nGaining experience in data analytics and data science internships\nImproving my ability to communicate results clearly to both technical and non-technical audiences\n\nLong term, I want to use data to help organizations make informed decisions and solve meaningful problems."
-  },
-  {
-    "objectID": "about.html#get-to-know-me",
-    "href": "about.html#get-to-know-me",
-    "title": "About Me",
-    "section": "Get to Know Me",
-    "text": "Get to Know Me\nOutside of school, I enjoy marathon running, intramural sports, hiking, and following BYU athletics.\nI enjoy setting long-term goals and working consistently to achieve them."
-  },
-  {
-    "objectID": "about.html#image",
-    "href": "about.html#image",
-    "title": "About Me",
-    "section": "Image",
-    "text": "Image\n\n\n\nRyan Morrow headshot"
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About Me",
-    "section": "Contact",
-    "text": "Contact\n\nGitHub: [github.com/rylion9-lgtm]\nLinkedIn: [www.linkedin.com/in/1ryanm1]\n\n\nThis portfolio showcases my progress, projects, and development as a data science student."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ryan Morrow - Data Science Portfolio",
-    "section": "",
-    "text": "Welcome to my data science portfolio. I’m a Statistics: Data Science student at Brigham Young University interested in using data to understand complex problems and make better decisions.\nThis site highlights projects where I apply programming, statistics, and visualization to real datasets.\n\n\nEach project on this site shows a different part of the data science process:\n\nCollecting and preparing data\nExploring trends and patterns\nCreating visualizations\nCommunicating insights clearly\n\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nProgramming: Python, Pandas, NumPy\nData Visualization: Matplotlib, Seaborn\nStatistical Analysis: Regression, hypothesis testing, exploratory analysis\nTools: Jupyter Notebooks, Git, GitHub, Quarto\n\n\n\n\n\n\n\nA project focused on exploring a dataset, identifying patterns, and communicating key findings with summary statistics and visualizations.\n\n\n\nA project showing how I gather, clean, and prepare data from different sources for analysis.\n\n\n\nA more complete data science project that brings together data preparation, analysis, and communication of results.\n\n\n\nThis portfolio is a record of what I’m learning and building as I grow in data science and analytics."
-  },
-  {
-    "objectID": "index.html#about-this-portfolio",
-    "href": "index.html#about-this-portfolio",
-    "title": "Ryan Morrow - Data Science Portfolio",
-    "section": "",
-    "text": "Each project on this site shows a different part of the data science process:\n\nCollecting and preparing data\nExploring trends and patterns\nCreating visualizations\nCommunicating insights clearly\n\nI built this site using Quarto and host it on GitHub Pages."
-  },
-  {
-    "objectID": "index.html#skills-im-building",
-    "href": "index.html#skills-im-building",
-    "title": "Ryan Morrow - Data Science Portfolio",
-    "section": "",
-    "text": "Programming: Python, Pandas, NumPy\nData Visualization: Matplotlib, Seaborn\nStatistical Analysis: Regression, hypothesis testing, exploratory analysis\nTools: Jupyter Notebooks, Git, GitHub, Quarto"
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Ryan Morrow - Data Science Portfolio",
-    "section": "",
-    "text": "A project focused on exploring a dataset, identifying patterns, and communicating key findings with summary statistics and visualizations.\n\n\n\nA project showing how I gather, clean, and prepare data from different sources for analysis.\n\n\n\nA more complete data science project that brings together data preparation, analysis, and communication of results.\n\n\n\nThis portfolio is a record of what I’m learning and building as I grow in data science and analytics."
-  },
-  {
-    "objectID": "projects/eda.html",
-    "href": "projects/eda.html",
-    "title": "EDA Project",
-    "section": "",
-    "text": "This is coming down the pipeline. Check again later.",
-    "crumbs": [
-      "EDA Project"
-    ]
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects Overview",
-    "section": "",
-    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
-    "crumbs": [
-      "Projects Overview"
-    ]
-  },
-  {
-    "objectID": "projects/index.html#all-projects",
-    "href": "projects/index.html#all-projects",
-    "title": "Projects Overview",
-    "section": "",
-    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
-    "crumbs": [
-      "Projects Overview"
-    ]
-  },
-  {
     "objectID": "projects/data-acquisition.html#why-i-chose-this-project",
     "href": "projects/data-acquisition.html#why-i-chose-this-project",
     "title": "National Parks: An Agglomerate",
@@ -401,6 +287,120 @@
     "text": "Final Thoughts\nThis project helped me understand how to move from raw API data to a structured dataset that could support analysis. By combining multiple endpoints and engineering new variables, I created a dataset that goes beyond a simple download and reflects a real data acquisition workflow.\nIn the future, I would improve this by handling pagination fully, incorporating more endpoints, and building visualizations to explore patterns across parks.",
     "crumbs": [
       "National Parks: An Agglomerate"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Statistics: Data Science student at Brigham Young University with a strong interest in using data to solve real-world problems. I enjoy learning how data can be collected, cleaned, analyzed, and communicated in ways that lead to better decisions.\nMy coursework has helped me build skills in programming, statistical analysis, and data visualization, and I am especially interested in applying those skills to practical problems in analytics and business settings."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Statistics: Data Science student at Brigham Young University with a strong interest in using data to solve real-world problems. I enjoy learning how data can be collected, cleaned, analyzed, and communicated in ways that lead to better decisions.\nMy coursework has helped me build skills in programming, statistical analysis, and data visualization, and I am especially interested in applying those skills to practical problems in analytics and business settings."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nStatistics: Data Science - Brigham Young University\nRelevant Coursework: Statistical Modeling, Data Visualization, Linear Algebra, Data Structures, Method of Survey Sampling, Intro to Bioinformatics"
+  },
+  {
+    "objectID": "about.html#skills-interests",
+    "href": "about.html#skills-interests",
+    "title": "About Me",
+    "section": "Skills & Interests",
+    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python, R, SQL, C++\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn, Tableau, Power BI\nStatistical Methods: Regression, hypothesis testing, exploratory data analysis\nTools: Jupyter Notebooks, Git, GitHub, Quarto, VS Code\n\n\n\nAreas of Interest\n\nData analytics\nStatistical modeling\nVisualization and communication\nBusiness decision-making with data"
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About Me",
+    "section": "Goals",
+    "text": "Goals\nThrough my data science journey, I hope to continue strengthening both my technical and communication skills and be happy.\nMy current goals include:\n\nBuilding strong, well-documented portfolio projects\nGaining experience in data analytics and data science internships\nImproving my ability to communicate results clearly to both technical and non-technical audiences\n\nLong term, I want to use data to help organizations make informed decisions and solve meaningful problems."
+  },
+  {
+    "objectID": "about.html#get-to-know-me",
+    "href": "about.html#get-to-know-me",
+    "title": "About Me",
+    "section": "Get to Know Me",
+    "text": "Get to Know Me\nOutside of school, I enjoy marathon running, intramural sports, hiking, and following BYU athletics.\nI enjoy setting long-term goals and working consistently to achieve them."
+  },
+  {
+    "objectID": "about.html#image",
+    "href": "about.html#image",
+    "title": "About Me",
+    "section": "Image",
+    "text": "Image\n\n\n\nRyan Morrow headshot"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\n\nGitHub: [github.com/rylion9-lgtm]\nLinkedIn: [www.linkedin.com/in/1ryanm1]\n\n\nThis portfolio showcases my progress, projects, and development as a data science student."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ryan Morrow - Data Science Portfolio",
+    "section": "",
+    "text": "Welcome to my data science portfolio. I’m a Statistics: Data Science student at Brigham Young University interested in using data to understand complex problems and make better decisions.\nThis site highlights projects where I apply programming, statistics, and visualization to real datasets.\n\n\nEach project on this site shows a different part of the data science process:\n\nCollecting and preparing data\nExploring trends and patterns\nCreating visualizations\nCommunicating insights clearly\n\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nProgramming: Python, Pandas, NumPy\nData Visualization: Matplotlib, Seaborn\nStatistical Analysis: Regression, hypothesis testing, exploratory analysis\nTools: Jupyter Notebooks, Git, GitHub, Quarto\n\n\n\n\n\n\n\nA project focused on exploring a dataset, identifying patterns, and communicating key findings with summary statistics and visualizations.\n\n\n\nA project showing how I gather, clean, and prepare data from different sources for analysis.\n\n\n\nA more complete data science project that brings together data preparation, analysis, and communication of results.\n\n\n\nThis portfolio is a record of what I’m learning and building as I grow in data science and analytics."
+  },
+  {
+    "objectID": "index.html#about-this-portfolio",
+    "href": "index.html#about-this-portfolio",
+    "title": "Ryan Morrow - Data Science Portfolio",
+    "section": "",
+    "text": "Each project on this site shows a different part of the data science process:\n\nCollecting and preparing data\nExploring trends and patterns\nCreating visualizations\nCommunicating insights clearly\n\nI built this site using Quarto and host it on GitHub Pages."
+  },
+  {
+    "objectID": "index.html#skills-im-building",
+    "href": "index.html#skills-im-building",
+    "title": "Ryan Morrow - Data Science Portfolio",
+    "section": "",
+    "text": "Programming: Python, Pandas, NumPy\nData Visualization: Matplotlib, Seaborn\nStatistical Analysis: Regression, hypothesis testing, exploratory analysis\nTools: Jupyter Notebooks, Git, GitHub, Quarto"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Ryan Morrow - Data Science Portfolio",
+    "section": "",
+    "text": "A project focused on exploring a dataset, identifying patterns, and communicating key findings with summary statistics and visualizations.\n\n\n\nA project showing how I gather, clean, and prepare data from different sources for analysis.\n\n\n\nA more complete data science project that brings together data preparation, analysis, and communication of results.\n\n\n\nThis portfolio is a record of what I’m learning and building as I grow in data science and analytics."
+  },
+  {
+    "objectID": "projects/eda.html",
+    "href": "projects/eda.html",
+    "title": "EDA Project",
+    "section": "",
+    "text": "This is coming down the pipeline. Check again later.",
+    "crumbs": [
+      "EDA Project"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects Overview",
+    "section": "",
+    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
+    "crumbs": [
+      "Projects Overview"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#all-projects",
+    "href": "projects/index.html#all-projects",
+    "title": "Projects Overview",
+    "section": "",
+    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
+    "crumbs": [
+      "Projects Overview"
     ]
   }
 ]
